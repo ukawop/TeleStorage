@@ -1,0 +1,3 @@
+/home/ukawop/CppProjects/TeleStorage/build/CMakeFiles/TeleStorage.dir
+/home/ukawop/CppProjects/TeleStorage/build/CMakeFiles/edit_cache.dir
+/home/ukawop/CppProjects/TeleStorage/build/CMakeFiles/rebuild_cache.dir
