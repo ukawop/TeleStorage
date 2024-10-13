@@ -62,7 +62,7 @@ void Env::updateEnvFile(const std::string &key, const std::string &value) {
     envFile.close();
 
     std::ofstream outFile(path);
-    if (!envFile.is_open()) {
+    if (!outFile.is_open()) {
         std::string errmsg = "Ошибка открытия файла: " + path;
         LOG_ERROR(errmsg);
         throw std::runtime_error(errmsg);
